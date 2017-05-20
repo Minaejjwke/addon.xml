@@ -1,0 +1,2 @@
+# addon.xml
+Mina
